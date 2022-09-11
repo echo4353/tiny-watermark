@@ -78,3 +78,4 @@
     window.__canvasWM = __canvasWM
   }
 })()
+export default __canvasWM

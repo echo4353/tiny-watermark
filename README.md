@@ -15,7 +15,8 @@ $ npm install tiny-watermark
 
 ```js
 const watermark = require("tiny-watermark");
-
+or
+import watermark from 'tiny-watermark'
  watermark({
    content: 'watermark',
    zIndex = 2000,

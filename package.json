@@ -1,6 +1,6 @@
 {
   "name": "tiny-watermark",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "tiny-watermark",
   "main": "index.js",
   "keywords": [
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/pitersu/tiny-watermark.git"
   },
-  "author": "",
+  "author": "pitersu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pitersu/tiny-watermark/issues"
